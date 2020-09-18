@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AquadraatCyclingSystem", "AquadraatCyclingSystem.csproj", "{D3D738A7-C684-4219-BEC7-63E8C9612775}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3D738A7-C684-4219-BEC7-63E8C9612775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D738A7-C684-4219-BEC7-63E8C9612775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D738A7-C684-4219-BEC7-63E8C9612775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D738A7-C684-4219-BEC7-63E8C9612775}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20489A42-A17F-4694-AA6D-27C5B32CDBD5}
+	EndGlobalSection
+EndGlobal
