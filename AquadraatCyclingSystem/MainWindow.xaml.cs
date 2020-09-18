@@ -24,5 +24,25 @@ namespace AquadraatCyclingSystem
         {
             InitializeComponent();
         }
+
+        private void btnCreateNewPlay_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnSavedPlays_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnAutoPlay_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void btnCredits_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
