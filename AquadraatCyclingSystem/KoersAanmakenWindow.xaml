@@ -1,0 +1,75 @@
+﻿<Window x:Class="AquadraatCyclingSystem.KoersAanmakenWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AquadraatCyclingSystem"
+        mc:Ignorable="d"
+        Background="{DynamicResource MaterialDesignPaper}"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        Title="KoersAanmakenWindow"  Height="687" Width="400">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="110*"/>
+            <RowDefinition Height="110*"/>
+            <RowDefinition Height="55*"/>
+            <RowDefinition Height="55*"/>
+            <RowDefinition Height="55*"/>
+            <RowDefinition Height="55*"/>
+            <RowDefinition Height="55*"/>
+            <RowDefinition Height="55*"/>
+            <RowDefinition Height="55*"/>
+
+        </Grid.RowDefinitions>
+        <Image Source="C:\Users\Gebruiker\Source\Repos\ProjectRondeVanVeussel\Ronde Van Veussel.png" Grid.ColumnSpan="2" Grid.Row="0" Grid.RowSpan="2" Stretch="Fill" Margin="25"/>
+
+        
+        <TextBox x:Name="tbNaam" Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2" Text="Geef een naam op" FontSize="25" VerticalContentAlignment="Center"/>
+        <ComboBox x:Name="cmbSelecteerAantalEtappes" Grid.Row="3" Grid.ColumnSpan="2" Margin="5" FontSize="25">
+            <ComboBoxItem IsSelected="True">Kies Aantal Etappes</ComboBoxItem>
+            <ComboBoxItem x:Name="VierEtappes">4 etappes</ComboBoxItem>
+            <ComboBoxItem x:Name="VijfEtappes">5 etappes</ComboBoxItem>
+            <ComboBoxItem x:Name="ZesEtappes">6 etappes</ComboBoxItem>
+            <ComboBoxItem x:Name="ZevenEtappes">7 etappes</ComboBoxItem>
+        </ComboBox>
+
+        
+
+        <ComboBox x:Name="cmbSelecteerAantalTijdritten" Grid.Row="4" Grid.ColumnSpan="2" Margin="5" FontSize="25">
+            <ComboBoxItem IsSelected="True">0 Tijdritten</ComboBoxItem>
+            <ComboBoxItem x:Name="Tijdrit1">1 Tijdrit</ComboBoxItem>
+            <ComboBoxItem x:Name="Tijdrit2">2 Tijdritten</ComboBoxItem>
+            <ComboBoxItem x:Name="Tijdrit3">3 Tijdritten</ComboBoxItem>
+        </ComboBox>
+
+        <ComboBox x:Name="cmbSelecteerAantalBergetappes" Grid.Row="5" Grid.ColumnSpan="2" Margin="5" FontSize="25">
+            <ComboBoxItem IsSelected="True">0 Bergetappes</ComboBoxItem>
+            <ComboBoxItem x:Name="Berg1">1 Bergetappe</ComboBoxItem>
+            <ComboBoxItem x:Name="Berg2">2 Bergetappes</ComboBoxItem>
+            <ComboBoxItem x:Name="Berg3">3 Bergetappes</ComboBoxItem>
+            <ComboBoxItem x:Name="Berg4">4 Bergetappes</ComboBoxItem>
+            <ComboBoxItem x:Name="Berg5">5 Bergetappes</ComboBoxItem>
+            <ComboBoxItem x:Name="Berg6">6 Bergetappes</ComboBoxItem>
+        </ComboBox>
+
+        <ComboBox x:Name="cmbSelecteerAantalVlakkeEtappes" Grid.Row="6" Grid.ColumnSpan="2" Margin="5" FontSize="25">
+            <ComboBoxItem IsSelected="True">0 Vlakke Etappes</ComboBoxItem>
+            <ComboBoxItem x:Name="Vlak1">1 Vlakke Etappe</ComboBoxItem>
+            <ComboBoxItem x:Name="Vlak2">2 Vlakke Etappes</ComboBoxItem>
+            <ComboBoxItem x:Name="Vlak3">3 Vlakke Etappes</ComboBoxItem>
+            <ComboBoxItem x:Name="Vlak4">4 Vlakke Etappes</ComboBoxItem>
+            <ComboBoxItem x:Name="Vlak5">5 Vlakke Etappes</ComboBoxItem>
+            <ComboBoxItem x:Name="Vlak6">6 Vlakke Etappes</ComboBoxItem>
+        </ComboBox>
+
+
+        <Button x:Name="btnRandomRonde" Content="Random Koers" Grid.Row="8" Grid.Column="0" FontSize="18" Margin="5" Click="BtnRandomRonde_Click"></Button>
+        <Button x:Name="btnGenerate" Content="Maak koers aan" Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="2" FontSize="25" Margin="5,10,5,10" Click="BtnGenerate_Click" Height="Auto"></Button>
+        <Button x:Name="btnBack" Content="Ga Terug" Grid.Row="8" Grid.Column="1" FontSize="18" Margin="5" Click="BtnBack_Click"></Button>
+    </Grid>
+</Window>
+

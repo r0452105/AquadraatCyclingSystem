@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Background="{DynamicResource MaterialDesignPaper}"
         TextElement.Foreground="{DynamicResource MaterialDesignBody}"
-        Title="Ronde Van Veussel" Height="778.8" Width="474.4">
+        Title="Ronde Van Veussel" Height="687" Width="400">
     <Grid Background="White">
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>

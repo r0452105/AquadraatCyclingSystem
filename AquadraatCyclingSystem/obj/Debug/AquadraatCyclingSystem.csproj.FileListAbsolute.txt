@@ -1,7 +1,6 @@
 C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\bin\Debug\AquadraatCyclingSystem.exe.config
 C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\bin\Debug\AquadraatCyclingSystem.exe
 C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\bin\Debug\AquadraatCyclingSystem.pdb
-C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Debug\AquadraatCyclingSystem.csprojAssemblyReference.cache
 C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Debug\MainWindow.g.cs
 C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Debug\App.g.cs
 C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Debug\AquadraatCyclingSystem_MarkupCompile.cache
@@ -20,3 +19,8 @@ C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSyste
 C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\bin\Debug\MaterialDesignThemes.Wpf.xml
 C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Debug\AquadraatCyclingSystem.csproj.CopyComplete
 C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Debug\App.baml
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\bin\Debug\AquadraatCyclingDB.mdf
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\bin\Debug\AquadraatCyclingDB_log.ldf
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Debug\AquadraatCyclingSystem_Content.g.cs
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Debug\KoersAanmakenWindow.g.cs
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Debug\KoersAanmakenWindow.baml
