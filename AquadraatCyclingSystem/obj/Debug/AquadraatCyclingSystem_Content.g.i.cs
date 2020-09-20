@@ -8,6 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("ronde%20van%20veussel.png")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("aquadraatcyclingdb.mdf")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("aquadraatcyclingdb_log.ldf")]
 
 

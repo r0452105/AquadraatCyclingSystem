@@ -13,3 +13,10 @@ C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSyste
 C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Debug\AquadraatCyclingSystem.csproj.CoreCompileInputs.cache
 C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Debug\AquadraatCyclingSystem.exe
 C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Debug\AquadraatCyclingSystem.pdb
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\bin\Debug\MaterialDesignColors.dll
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Debug\AquadraatCyclingSystem.csproj.CopyComplete
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Debug\App.baml

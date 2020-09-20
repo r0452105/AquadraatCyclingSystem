@@ -27,7 +27,7 @@ namespace AquadraatCyclingSystem
 
         private void btnCreateNewPlay_Click(object sender, RoutedEventArgs e)
         {
-
+            
         }
 
         private void btnSavedPlays_Click(object sender, RoutedEventArgs e)
