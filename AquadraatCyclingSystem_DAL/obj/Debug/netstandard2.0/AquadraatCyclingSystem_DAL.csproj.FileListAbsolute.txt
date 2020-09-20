@@ -1,0 +1,8 @@
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem_DAL\obj\Debug\netstandard2.0\AquadraatCyclingSystem_DAL.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem_DAL\obj\Debug\netstandard2.0\AquadraatCyclingSystem_DAL.AssemblyInfo.cs
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem_DAL\obj\Debug\netstandard2.0\AquadraatCyclingSystem_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem_DAL\bin\Debug\netstandard2.0\AquadraatCyclingSystem_DAL.deps.json
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem_DAL\bin\Debug\netstandard2.0\AquadraatCyclingSystem_DAL.dll
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem_DAL\bin\Debug\netstandard2.0\AquadraatCyclingSystem_DAL.pdb
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem_DAL\obj\Debug\netstandard2.0\AquadraatCyclingSystem_DAL.dll
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem_DAL\obj\Debug\netstandard2.0\AquadraatCyclingSystem_DAL.pdb

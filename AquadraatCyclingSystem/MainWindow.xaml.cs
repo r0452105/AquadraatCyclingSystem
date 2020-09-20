@@ -27,7 +27,12 @@ namespace AquadraatCyclingSystem
 
         private void btnCreateNewPlay_Click(object sender, RoutedEventArgs e)
         {
-            
+            KoersAanmakenWindow AanmaakVenster = new KoersAanmakenWindow();
+            //AanmaakVenster.state = 0;
+            AanmaakVenster.Top = this.Top;
+            AanmaakVenster.Left = this.Left;
+            AanmaakVenster.Show();
+            this.Close();
         }
 
         private void btnSavedPlays_Click(object sender, RoutedEventArgs e)

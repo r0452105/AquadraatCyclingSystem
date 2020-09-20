@@ -28,7 +28,7 @@
         <Image Source="C:\Users\Gebruiker\Source\Repos\ProjectRondeVanVeussel\Ronde Van Veussel.png" Grid.ColumnSpan="2" Grid.Row="0" Grid.RowSpan="2" Stretch="Fill" Margin="25"/>
 
         
-        <TextBox x:Name="tbNaam" Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2" Text="Geef een naam op" FontSize="25" VerticalContentAlignment="Center"/>
+        <TextBox x:Name="tbNaam" Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2" Text="Geef een naam op" FontSize="25" VerticalContentAlignment="Center" Margin="5,0,0,0"/>
         <ComboBox x:Name="cmbSelecteerAantalEtappes" Grid.Row="3" Grid.ColumnSpan="2" Margin="5" FontSize="25">
             <ComboBoxItem IsSelected="True">Kies Aantal Etappes</ComboBoxItem>
             <ComboBoxItem x:Name="VierEtappes">4 etappes</ComboBoxItem>
@@ -68,7 +68,7 @@
 
 
         <Button x:Name="btnRandomRonde" Content="Random Koers" Grid.Row="8" Grid.Column="0" FontSize="18" Margin="5" Click="BtnRandomRonde_Click"></Button>
-        <Button x:Name="btnGenerate" Content="Maak koers aan" Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="2" FontSize="25" Margin="5,10,5,10" Click="BtnGenerate_Click" Height="Auto"></Button>
+        <Button x:Name="btnGenerate" Content="Maak koers aan" Grid.Row="7" Grid.Column="0" Grid.ColumnSpan="2" FontSize="25" Margin="5,10,5,6" Click="BtnGenerate_Click" Height="Auto"></Button>
         <Button x:Name="btnBack" Content="Ga Terug" Grid.Row="8" Grid.Column="1" FontSize="18" Margin="5" Click="BtnBack_Click"></Button>
     </Grid>
 </Window>

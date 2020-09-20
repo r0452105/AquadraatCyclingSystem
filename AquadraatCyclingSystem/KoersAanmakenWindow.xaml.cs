@@ -36,7 +36,11 @@ namespace AquadraatCyclingSystem
 
         private void BtnBack_Click(object sender, RoutedEventArgs e)
         {
-
+            MainWindow mainWindow = new MainWindow();
+            mainWindow.Top = this.Top;
+            mainWindow.Left = this.Left;
+            mainWindow.Show();
+            this.Close();
         }
     }
 }
