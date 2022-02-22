@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Debug\
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Release\
 AquadraatCyclingSystem
 none
 false
-DEBUG;TRACE
+TRACE
 C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\App.xaml
 2761716159
 
 6725226907
-17-175707433
+17764511185
 KoersAanmakenWindow.xaml;MainWindow.xaml;
 
 True
