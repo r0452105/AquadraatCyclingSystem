@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "jjEVfWc/NWpM7noLNtTP3PnK78lOYJ2HQDYir12FIH0GYX0PULiSbXMsurq6s8elrTGAJhVQYSy5s6xXFCo28g==",
+  "dgSpecHash": "YpkD7VVuzjeeSxsPafwxwtjoB697KJwiT3YhNwS0MZGVLRG9zBl+wA754JY1X8JHPPDTk1cRWUpn6ydMusaNSg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gebruiker\\Documents\\GitHub\\AquadraatCyclingSystem\\AquadraatCyclingSystem_DAL\\AquadraatCyclingSystem_DAL.csproj",
   "expectedPackageFiles": [
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Gebruiker\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Gebruiker\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }
