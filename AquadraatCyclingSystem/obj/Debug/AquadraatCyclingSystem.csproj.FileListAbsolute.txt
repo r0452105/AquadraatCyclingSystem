@@ -21,6 +21,7 @@ C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSyste
 C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Debug\App.baml
 C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Debug\KoersAanmakenWindow.g.cs
 C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Debug\KoersAanmakenWindow.baml
-C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Debug\AquadraatCyclingSystem.csprojAssemblyReference.cache
 C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\bin\Debug\AquadraatCyclingSystem_DAL.dll
 C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\bin\Debug\AquadraatCyclingSystem_DAL.pdb
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Debug\AquadraatCyclingSystem.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem\obj\Debug\AquadraatCyclingSystem.csproj.SuggestedBindingRedirects.cache

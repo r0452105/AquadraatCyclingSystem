@@ -6,3 +6,5 @@ C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSyste
 C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem_DAL\bin\Debug\netstandard2.0\AquadraatCyclingSystem_DAL.pdb
 C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem_DAL\obj\Debug\netstandard2.0\AquadraatCyclingSystem_DAL.dll
 C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem_DAL\obj\Debug\netstandard2.0\AquadraatCyclingSystem_DAL.pdb
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem_DAL\obj\Debug\netstandard2.0\AquadraatCyclingSystem_DAL.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Documents\GitHub\AquadraatCyclingSystem\AquadraatCyclingSystem_DAL\obj\Debug\netstandard2.0\AquadraatCyclingSystem_DAL.GeneratedMSBuildEditorConfig.editorconfig
